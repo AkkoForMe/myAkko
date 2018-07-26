@@ -1,3 +1,0 @@
-# myAkko
-first Repository
-yes
